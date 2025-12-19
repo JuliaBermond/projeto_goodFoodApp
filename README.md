@@ -1,8 +1,8 @@
 ## Descrição
 
-**GoodFood** é uma aplicação **fullstack** simples, desenvolvida com **React no frontend** e **Node.js com Express no backend**, criada para permitir o pedido e gerenciamento de um sistema de pedidos de comida (FoodApp).
+**GoodFood** é uma aplicação fullstack simples, desenvolvida com React no frontend e Node.js com Express no backend, criada para permitir o gerenciamento de um sistema de pedidos de comida (FoodApp).
 
-O projeto foi desenvolvido com **foco educacional**, aplicando conceitos de **APIs REST**, **arquitetura frontend e backend**, **organização de rotas** e **integração com banco de dados**.
+O projeto foi desenvolvido com foco educacional, aplicando conceitos de APIs REST, organização de rotas e integração com banco de dados.
 
 ## Tecnologias Utilizadas
 
